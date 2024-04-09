@@ -1,10 +1,29 @@
-// Define a helper function to generate a random number between min and max (inclusive)
-function generateRandomNumber(min, max) {
-    return Math.floor(Math.random() * (max - min + 1)) + min;
-}
-
-// Example usage of the helper function
-let minNumber = 1;
-let maxNumber = 100;
-let randomNumber = generateRandomNumber(minNumber, maxNumber);
-console.log("Random number between", minNumber, "and", maxNumber, "is:", randomNumber);
+// Helper function to calculate factorial
+function factorial(n) {
+    if (n === 0 || n === 1) {
+      return 1;
+    } else {
+      return n * factorial(n - 1);
+    }
+  }
+  
+  // Main function to demonstrate factorial calculation
+  function calculateFactorial() {
+    // Get user input
+    let number = parseInt(prompt("Enter a number to calculate its factorial:"));
+  
+    // Check if the input is a valid number
+    if (isNaN(number)) {
+      alert("Please enter a valid number.");
+      return;
+    }
+  
+    // Calculate factorial using the helper function
+    let result = factorial(number);
+  
+    // Display the result
+    alert("The factorial of " + number + " is: " + result);
+  }
+  
+  // Call the main function
+  calculateFactorial();
