@@ -1,0 +1,24 @@
+{
+  "name": "konopelka228",
+  "version": "1.0.2",
+  "description": "konopelka228",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TarasukMorkvunka/konopelka228.git"
+  },
+  "dependencies": {
+    "molodozeleno": "1.0.0",
+    "leleka2580130": "1.0.2",
+    "lnalusnuk228": "1.0.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarasukMorkvunka/konopelka228/issues"
+  },
+  "homepage": "https://github.com/TarasukMorkvunka/konopelka228#readme"
+}
