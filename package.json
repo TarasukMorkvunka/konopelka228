@@ -1,6 +1,6 @@
 {
   "name": "konopelka228",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "konopelka228",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,8 @@
   "dependencies": {
     "molodozeleno": "1.0.0",
     "leleka2580130": "1.0.2",
-    "nalusnuk228": "1.0.2"
+    "nalusnuk228": "1.0.2",
+    "konopelka229": "1.0.4"
   },
   "author": "",
   "license": "ISC",
