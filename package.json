@@ -11,11 +11,13 @@
     "url": "https://github.com/TarasukMorkvunka/konopelka228.git"
   },
   "dependencies": {
-    "molodozeleno": "1.0.0",
     "leleka2580130": "1.0.2",
-    "nalusnuk228": "1.0.2",
-    "konopelka229": "1.0.4"
-  },
+    "paket228": "1.0.3",
+    "trukytnuk": "1.0.0",
+    "galetska222": "1.0.1",
+    "smetanka": "1.0.2",
+    "morvunka228": "1.0.3"
+    },
   "author": "",
   "license": "ISC",
   "bugs": {
