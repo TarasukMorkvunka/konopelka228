@@ -1,6 +1,6 @@
 {
   "name": "konopelka228",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "konopelka228",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,10 @@
     "trukytnuk": "1.0.0",
     "galetska222": "1.0.1",
     "smetanka": "1.0.2",
-    "morvunka228": "1.0.3"
+    "morvunka228": "1.0.3",
+    "tarasukmorkvochka": "1.0.0",
+    "konopelka229": "1.0.4",
+    "konopelka228": "1.0.3"
     },
   "author": "",
   "license": "ISC",
